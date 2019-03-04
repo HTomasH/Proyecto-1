@@ -1,6 +1,8 @@
 select * from Clientes
 SELECT * FROM Categorias
 
+-- MODIFICADO 1 PARA GIT
+
 
 /*  Prácticas propuestas para el módulo 4
  

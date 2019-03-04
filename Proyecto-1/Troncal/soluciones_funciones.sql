@@ -1,3 +1,5 @@
+--MODIFICANDO PARA GIT  1
+
 ---   Obtener un listado de todos los productos, mostrando el identificador y un campo con el texto: "El precio unitario del producto `Nombre` es `PrecioUnitario` €".
 
 select concat('El precio unitario del producto ', Nombre,' es ', PrecioUnitario, ' €')
